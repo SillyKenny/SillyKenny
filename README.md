@@ -13,6 +13,7 @@
 
 # Other Links:
   [Donate To Fund My Education/Projects](https://sugarfairy33.gumroad.com/l/GITHUBFUNDS)
+  
   [Commission A Website](https://www.etsy.com/listing/1794301810)
 
 # About Darleen:
@@ -20,10 +21,11 @@
 
 # Darleens Goals:
   I have a goal of a full stack web-dev with the following;
+  
     - HTML
     - CSS
     - JS (JavaScript)
     - PHP
     - React
     - Node.js
-    - SQL    
+    - SQL
