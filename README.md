@@ -86,3 +86,5 @@ Nothing Here...***YET***
 )](twitter.com/@DarleenLemon)
 [![YouTube](https://i.ibb.co/dcS9Tj9/YT-ICON.png
 )](https://www.youtube.com/@NeonDarleen)
+
+### Last Updated on 27.11.2024 (11.27.24 for silly americans like me) @ 14:10 (2:10p) EST!!
