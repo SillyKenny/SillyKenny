@@ -50,7 +50,7 @@ Nothing Here...***YET***
 
 ## 👩‍💻 Tech Stack
 
-**Laptop 1:** Lenovo ideaPad 3 (15") - **WINDOWS 11 OS**
+**Laptop 1:** Lenovo ideaPad 3 (15") - **used to be WINDOWS but is now LINUX w/ FEDORA**
 
 **Laptop 2:** Random Ass laptop i found in my dads closet with no sticker - **used to be WINDOWS but is now LINUX w/ UBUNTU**
 
