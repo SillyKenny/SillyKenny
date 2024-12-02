@@ -87,4 +87,12 @@ Nothing Here...***YET***
 [![YouTube](https://i.ibb.co/dcS9Tj9/YT-ICON.png
 )](https://www.youtube.com/@NeonDarleen)
 
-### Last Updated on 27.11.2024 (11.27.24 for silly americans like me) @ 14:10 (2:10p) EST!!
+## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
+
+### Last Updated on 02.12.2024 (12.02.24 for silly americans like me) @ 08:04 (8:04a) EST!!
