@@ -1,10 +1,10 @@
 
-# Hi, I'm Darleen! 👋
+# Hi, I'm Sage! 👋
 
 
 ## 🚀 About Me
 
-I'm Darleen. A 16-Year-Old Web Developer, & Software Engineer! I use She/They pronouns, & I'm autistic and have ADHD. I'm **USUALLY** online from 07:00-22:00 Eastern Standard Time (USA). Times can differ on the day & how busy I am but please feel free to message me ANYWHERE and I will *do my best* to respond in a timely manner :}
+I'm Sage. A 16-Year-Old Web Developer, & Software Engineer! I use She/They pronouns, & I'm autistic and have ADHD. I'm **USUALLY** online from 07:00-22:00 Eastern Standard Time (USA). Times can differ on the day & how busy I am but please feel free to message me ANYWHERE and I will *do my best* to respond in a timely manner :}
 
 ## 🛠 Skills
 
