@@ -17,14 +17,6 @@ I'm Sage. A 16-Year-Old Web Developer, & Software Engineer! I use She/They prono
 3. JS (**J**ava**S**cript)
 3.1. Proicency: Not Very Good, Still learning the basics & mastering basic things slowly. Not looking for a certification any time soon
 
-4. PHP (**H**ypertext **P**reprocessor)
-4.1. Proicency: Not Very Good, Still learning the basics & mastering basic things slowly. Not looking for a certification any time soon
-
-5. Python
-5.1. Proicency: Good, Not Looking to get a certification soon.
-
-6. React
-6.1. Proicency: Not Very Good, Still learning the basics & mastering basic things **VERY** slowly. Not looking for a certification any time soon
 ## Other Shit lol
 👩‍💻 I'm currently working on: lots of things 🤓☝️
 
@@ -78,7 +70,7 @@ Nothing Here...***YET***
 
 
 ## 🔗 Links
-[![Discord](https://i.ibb.co/wNv6Qdd/DISC-ICON.png)](https://discord.gg/rGP2BTVFht)
+[![Discord](https://i.ibb.co/wNv6Qdd/DISC-ICON.png)](https://discord.gg/hSgdP5R5nU)
 [![Facebook](https://i.ibb.co/hssSBgq/FB-ICON.png)](https://www.facebook.com/profile.php?id=61567158550851)
 [![Instagram](https://i.ibb.co/m94Q1fH/IG-ICON.png
 )](https://www.instagram.com/wtf_darleen/)
