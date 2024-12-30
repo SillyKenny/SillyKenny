@@ -85,4 +85,4 @@ Via [Twitter](https://x.com/MORGUEFAEXX) ***OR*** [Email](mailto:darleenfairy33@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
 
-### Last Updated on 27.12.2024 (12.27.24 for silly americans like me) @ 09:06 (9:06a) EST!!
+### Last Updated on 27.12.2024 (12.27.24 for silly americans like me) @ 09:06 (9:06a) EST!
