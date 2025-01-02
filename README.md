@@ -26,13 +26,13 @@ I'm a full stack web developer in the works! I want to learn what I need to have
 
 [Ko-Fi](https://ko-fi.com/velvetvines)
 
-[GitHub Profile](https://github.com/DarleenFairy33)
+[GitHub Profile](https://github.com/SillyKenny)
 
 [Itch.io Profile](https://morguefaexx.itch.io/)
 
 [Twitter](https://x.com/MORGUEFAEXX)
 
-[YouTube](https://www.youtube.com/@NeonSageGyal)
+[YouTube](https://www.youtube.com/@SILLYKENNY333)
 ## 🖥️ Tech Stack
 
 **Hardware:**
