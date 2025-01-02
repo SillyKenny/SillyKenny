@@ -83,6 +83,6 @@ Via [Twitter](https://x.com/MORGUEFAEXX) ***OR*** [Email](mailto:darleenfairy33@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyKenny)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SillyKenny)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarleenFairy33)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Last Updated on 27.12.2024 (12.27.24 for silly americans like me) @ 09:06 (9:06a) EST!
