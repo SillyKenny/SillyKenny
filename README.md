@@ -1,5 +1,5 @@
 
-# Hi, I'm DarleenFairy33! 👋
+# Hi, I'm SIllyKenny! 👋
 
 ## 🚀 About Me
 I'm a full stack web developer in the works! I want to learn what I need to have a good career and have fun while doing it. I'm 16, use any pronouns & I love coding, crochet, and sewing!
@@ -79,10 +79,10 @@ Via [Twitter](https://x.com/MORGUEFAEXX) ***OR*** [Email](mailto:darleenfairy33@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SillyKenny)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SillyKenny)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darleenfairy33)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SillyKenny)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Last Updated on 27.12.2024 (12.27.24 for silly americans like me) @ 09:06 (9:06a) EST!
