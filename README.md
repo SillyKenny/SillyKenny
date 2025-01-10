@@ -33,6 +33,9 @@ I'm a full stack web developer in the works! I want to learn what I need to have
 [Twitter](https://x.com/MORGUEFAEXX)
 
 [YouTube](https://www.youtube.com/@SILLYKENNY333)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F717CRMO)
+
 ## 🖥️ Tech Stack
 
 **Hardware:**
