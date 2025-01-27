@@ -50,7 +50,7 @@ I am a OSDev, and WebDev! :)
 
 
 ## 🔔 Other 🔔
-👩‍💻 I'm currently working on: my OS & ChatDotNetUS
+👩‍💻 I'm currently working on: lots of things :3
 
 🧠 I'm currently learning: A lot of things
 
