@@ -59,3 +59,7 @@ I am a OSDev, and WebDev! :)
 📫 How to reach me: Email, Instagram, or Discord!
 
 😄 Pronouns: He/They
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sillykenny&show_icons=true&theme=merko)
