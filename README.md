@@ -39,9 +39,6 @@ I am a OSDev, and WebDev! :)
 ![Static Badge](https://img.shields.io/badge/Second_Channel-%20CozmozK_Crafts%20-%20blue?style=for-the-badge&link=https%3A%2F%2Fwww.youtube.com%2F%40CozmozKCrafts)
 
 
-![Static Badge](https://img.shields.io/badge/KOFI-%20CozmozK%20-%20red?style=for-the-badge&link=https%3A%2F%2Fko-fi.com%2Fcozmozk)
-
-
 ![Static Badge](https://img.shields.io/badge/Twitter%20-%20CozmozK%20-%20black?style=for-the-badge&link=https%3A%2F%2Fx.com%2Fcozmozk)
 
 
