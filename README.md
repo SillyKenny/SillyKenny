@@ -60,4 +60,4 @@ More to come ;)
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sillykenny&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonbinarybyte&show_icons=true&theme=merko)
