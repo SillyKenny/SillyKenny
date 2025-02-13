@@ -6,31 +6,16 @@ Hi Hi! I'm The "NonBinaryByte" I'm 16, use He/They/Void pronouns and i love old 
 I am a OSDev, and WebDev! :)
 ## 💾 Skills 💾
 
-***ON the computer my skills consist of...***
 
 1. HTML [Looking 4 Cerification soon]
 2. CSS [Looking 4 Cerification soon]
 3. JS (JavaShit) [NOT Looking 4 Cerification soon, and will NEVER get 1]
-4. C++ [NOT Looking 4 Cerification soon]
+4. C++ [NOT Looking 4 Cerification soon] (gave up lol.)
 5. C [NOT Looking 4 Cerification soon]
 6. Assembly [NOT Looking 4 Cerification soon]
 7. Python [NOT Looking 4 Cerification soon]
-8. Firebase [NOT Looking 4 Cerification soon, Still learning.]
-9. API's (not all BUT some!) [NOT Looking 4 Cerification soon, still learning.]
+8. Firebase [NOT Looking 4 Cerification soon, Still learning.] 
 
-
----
-
-***OFF the computer my skills consist of...***
-
-1. Sewing
-2. Crochet
-3. Knitting
-4. Reading
-5. Writing
-6. MLP & LPS toy Collecting
-7. Fashion
-8. Listen To Music
 ## 🔗 Links 🔗
 
 [Ko-Fi/Patreon](https://ko-fi.com/nonbinarybyte)
