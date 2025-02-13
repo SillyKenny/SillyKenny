@@ -1,7 +1,7 @@
 
 ## 🚀 About Me 🚀
 
-Hi Hi! I'm CozmozK (A.K.A Kenny!) I'm 16, use He/They/Void pronouns and i love old tech! (1990s-2008 specifically!) My favorite fruit WAS peaches but suddenly I'm alergic so now my favorite fruit is Cherries 🍒, **OR** Bannanas 🍌!
+Hi Hi! I'm The "NonBinaryByte" I'm 16, use He/They/Void pronouns and i love old tech! (1990s-2008 specifically!) My favorite fruit WAS peaches but suddenly I'm alergic so now my favorite fruit is Cherries 🍒, **OR** Bannanas 🍌!
 
 I am a OSDev, and WebDev! :)
 ## 💾 Skills 💾
@@ -33,18 +33,19 @@ I am a OSDev, and WebDev! :)
 8. Listen To Music
 ## 🔗 Links 🔗
 
-![Static Badge](https://img.shields.io/badge/Main%20Channel%20-%20CozmozK%20-%20blue?style=for-the-badge&link=https%3A%2F%2Fwww.youtube.com%2F%40CozmozK)
+[Ko-Fi/Patreon](https://ko-fi.com/nonbinarybyte)
 
+[YouTube](https://www.youtube.com/@MoonAngelTech)
 
-![Static Badge](https://img.shields.io/badge/Second_Channel-%20CozmozK_Crafts%20-%20blue?style=for-the-badge&link=https%3A%2F%2Fwww.youtube.com%2F%40CozmozKCrafts)
+[Instagram](https://www.instagram.com/strrawbz.angelix/)
 
+[Twitter (formerly X)](https://x.com/nonbinarybyte)
 
-![Static Badge](https://img.shields.io/badge/Twitter%20-%20CozmozK%20-%20black?style=for-the-badge&link=https%3A%2F%2Fx.com%2Fcozmozk)
+Discord server: Not ready yet!
 
+Discord Username: nonbinarybyte (display name is "Kenny (Femboy)")
 
-![Static Badge](https://img.shields.io/badge/GitHub%20-%20SillyKenny%20-%20navy?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSillyKenny)
-
-
+More to come ;)
 
 ## 🔔 Other 🔔
 👩‍💻 I'm currently working on: lots of things :3
